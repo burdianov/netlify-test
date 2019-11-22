@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <h1>LOL CONTINUOUS INTEGRATION</h1>
+      <h1>CONFIRMED WORKING</h1>
     </div>
   );
 };

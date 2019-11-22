@@ -11,3 +11,6 @@ $ del /q .git
 // then
 $ git init
 
+// netlify build settings:
+Build command		:	npm run build
+Publish directory	:	./build
