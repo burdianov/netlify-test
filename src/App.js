@@ -4,9 +4,10 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <h1>Hai noroc si altu-n loc!</h1>
+      <h1>Daca tu stiai problema</h1>
+      <h3>Astei vieti cu care lupt.</h3>
     </div>
   );
-}
+};
 
 export default App;
