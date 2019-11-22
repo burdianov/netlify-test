@@ -4,8 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <h1>Daca tu stiai problema</h1>
-      <h3>Astei vieti cu care lupt.</h3>
+      <h1>LOL CONTINUOUS INTEGRATION</h1>
     </div>
   );
 };
